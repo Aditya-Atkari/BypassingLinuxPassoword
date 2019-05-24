@@ -1,0 +1,2 @@
+# BypassingLinuxPassoword
+The project report 'BypassingPasword' illustrates how a user's password can be bypassed with no privilege on a Linux system.
